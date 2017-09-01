@@ -3,21 +3,22 @@
     <title>nlvbay</title>
     <link href="https://areahints.github.io/nlvbay/feed.xml" rel="self" />
     <link href="https://areahints.github.io/nlvbay" />
-    <updated>2017-09-01T00:08:55+01:00</updated>
+    <updated>2017-09-01T14:20:04+01:00</updated>
     <author>
-        <name>Nlvbay Admin</name>
+        <name>Nlvbay Admin Bot</name>
     </author>
     <id>https://areahints.github.io/nlvbay</id>
 
     <entry>
         <title> Lyrics: Solidstar – Wait ft. Davido</title>
         <author>
-            <name>Nlvbay Admin</name>
+            <name>Nlvbay Admin Bot</name>
         </author>
-        <link href="https://areahints.github.io/nlvbay/lyrics-solidstar-wait-ft-davido.html"/>
-        <id>https://areahints.github.io/nlvbay/lyrics-solidstar-wait-ft-davido.html</id>
+        <link href="https://areahints.github.io/nlvbay/solidstar-wait.html"/>
+        <id>https://areahints.github.io/nlvbay/solidstar-wait.html</id>
+            <category term="lyrics"/>
 
-        <updated>2017-08-31T23:57:36+01:00</updated>
+        <updated>2017-09-01T02:28:56+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -28,7 +29,7 @@
     <entry>
         <title>Lyrics: Davido – If</title>
         <author>
-            <name>Nlvbay Admin</name>
+            <name>Nlvbay Admin Bot</name>
         </author>
         <link href="https://areahints.github.io/nlvbay/lyrics-davido-if.html"/>
         <id>https://areahints.github.io/nlvbay/lyrics-davido-if.html</id>
@@ -45,7 +46,7 @@
     <entry>
         <title>Lyrics: Simi – Joromi</title>
         <author>
-            <name>Nlvbay Admin</name>
+            <name>Nlvbay Admin Bot</name>
         </author>
         <link href="https://areahints.github.io/nlvbay/lyrics-simi-joromi.html"/>
         <id>https://areahints.github.io/nlvbay/lyrics-simi-joromi.html</id>
@@ -62,7 +63,7 @@
     <entry>
         <title>Nigerian Lyrics and Videos Bay!</title>
         <author>
-            <name>Nlvbay Admin</name>
+            <name>Nlvbay Admin Bot</name>
         </author>
         <link href="https://areahints.github.io/nlvbay/nigerian-lyrics-and-videos-bay.html"/>
         <id>https://areahints.github.io/nlvbay/nigerian-lyrics-and-videos-bay.html</id>
